@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Nobody Compares To You",
+  "base_artist": "Gryffin",
+  "createdAt": "2026-03-10T03:22:36.618173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nobody Compares To You",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/01_Nobody_Compares_To_You_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nobody Compares to You",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/02_Nobody_Compares_to_You_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nobody Compares to You",
+      "artist": "Katie Pearlman",
+      "has_synced": true,
+      "path": "select/03_Nobody_Compares_to_You_Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nobody Compares to You",
+      "artist": "Gryffin, Katie Pearlman",
+      "has_synced": true,
+      "path": "select/04_Nobody_Compares_to_You_Gryffin,_Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (Feat. Katie Pearlman)",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/05_Nobody_Compares_To_You_(Feat._Katie_Pearlman)_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nobody Compares To You",
+      "artist": "Gryffin, Katie Pearlman",
+      "has_synced": true,
+      "path": "select/06_Nobody_Compares_To_You_Gryffin,_Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody Compares to You",
+      "artist": "Gryffin feat. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/07_Nobody_Compares_to_You_Gryffin_feat._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (With Katie Pearlman)",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/08_Nobody_Compares_To_You_(With_Katie_Pearlman)_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nobody Compares To You",
+      "artist": "Gryffin ft. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/09_Nobody_Compares_To_You_Gryffin_ft._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nobody Compares to You (feat. Katie Pearlman)",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/10_Nobody_Compares_to_You_(feat._Katie_Pearlman)_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nobody Compares to You (feat",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/11_Nobody_Compares_to_You_(feat_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nobody Compares To You",
+      "artist": "Gryffin;Katie Pearlman",
+      "has_synced": true,
+      "path": "select/12_Nobody_Compares_To_You_Gryffin;Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nobody Compares to You",
+      "artist": "Gryffin feat. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/13_Nobody_Compares_to_You_Gryffin_feat._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (feat. Katie Pearlman)",
+      "artist": "Gryffin feat. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/14_Nobody_Compares_To_You_(feat._Katie_Pearlman)_Gryffin_feat._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nobody Compares To You",
+      "artist": "Gryffin feat. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/15_Nobody_Compares_To_You_Gryffin_feat._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (feat. Katie Pearlman)",
+      "artist": "Gryffin/Katie Pearlman",
+      "has_synced": true,
+      "path": "select/16_Nobody_Compares_To_You_(feat._Katie_Pearlman)_Gryffin_Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nobody Compares to You",
+      "artist": "Gryffin ft. Katie Pearlman",
+      "has_synced": true,
+      "path": "select/17_Nobody_Compares_to_You_Gryffin_ft._Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (Codeko Remix)",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/18_Nobody_Compares_To_You_(Codeko_Remix)_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (feat. Katie Pearlman)",
+      "artist": "Gryffin/Katie Pearlman",
+      "has_synced": true,
+      "path": "select/19_Nobody_Compares_To_You_(feat._Katie_Pearlman)_Gryffin_Katie_Pearlman.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (feat. Katie Pearlman) [BUNT. Remix]",
+      "artist": "Gryffin; Katie Pearlman; BUNT.",
+      "has_synced": true,
+      "path": "select/20_Nobody_Compares_To_You_(feat._Katie_Pearlman)_[BUNT._Remix]_Gryffin;_Katie_Pearlman;_BUNT..lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (feat. Katie Pearlman) [Codeko Remix]",
+      "artist": "Gryffin; Katie Pearlman; Codeko",
+      "has_synced": true,
+      "path": "select/21_Nobody_Compares_To_You_(feat._Katie_Pearlman)_[Codeko_Remix]_Gryffin;_Katie_Pearlman;_Codeko.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (feat. Katie Pearlman) [Olmos Remix]",
+      "artist": "Gryffin; Katie Pearlman; Olmos",
+      "has_synced": false,
+      "path": "select/22_Nobody_Compares_To_You_(feat._Katie_Pearlman)_[Olmos_Remix]_Gryffin;_Katie_Pearlman;_Olmos.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Nobody Compares To You (feat. Katie Pearlman) [Tyzo Bloom Remix]",
+      "artist": "Gryffin; Katie Pearlman; Tyzo Bloom",
+      "has_synced": false,
+      "path": "select/23_Nobody_Compares_To_You_(feat._Katie_Pearlman)_[Tyzo_Bloom_Remix]_Gryffin;_Katie_Pearlman;_Tyzo_Bloom.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nobody Compares to You",
+      "artist": "Gryffin",
+      "has_synced": false,
+      "path": "select/pl_01_Nobody_Compares_to_You_Gryffin.txt"
+    }
+  ]
+}
